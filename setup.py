@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="atd_knackutil",
-    version="0.0.1",
+    version="0.0.2",
     author="City of Austin",
     author_email="transportation.data@austintexas.gov",
     description="Python utilities for interacting with Knack applications.",
